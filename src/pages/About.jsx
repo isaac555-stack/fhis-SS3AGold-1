@@ -53,6 +53,18 @@ const contributors = [
     quote: "Helped fund the project’s foundation stage.",
     image: "https://via.placeholder.com/120",
   },
+  {
+    name: "Kizito Suchima",
+    role: "Supporter",
+    quote: "Helped fund the project’s foundation stage.",
+    image: "https://via.placeholder.com/120",
+  },
+   {
+    name: "Ogbodo Shalom",
+    role: "Supporter",
+    quote: "Helped fund the project’s foundation stage.",
+    image: "https://via.placeholder.com/120",
+  },
 ];
 
 export default function About() {
